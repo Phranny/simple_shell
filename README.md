@@ -1,5 +1,5 @@
 0x16. C - Simple Shell
-A simple shell project by Norris Selorm Bedzo and Jonathan Abayie Boahene
+A simple shell project by Francis Kwofie and Ebenezer Nakotey Tettey
 
 Compilation
 gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
